@@ -1,0 +1,2 @@
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.exe
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.pdb

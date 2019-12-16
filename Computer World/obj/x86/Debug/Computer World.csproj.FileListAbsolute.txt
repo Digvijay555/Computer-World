@@ -1,0 +1,39 @@
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\bin\Debug\Computer World.exe
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\bin\Debug\Computer World.pdb
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form1.resources
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form2.resources
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Properties.Resources.resources
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.csproj.GenerateResource.Cache
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.exe
+c:\users\thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.pdb
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.csprojResolveAssemblyReference.cache
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form3.resources
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form4.resources
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form5.resources
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form6.resources
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form7.resources
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer_World.Form8.resources
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\bin\Debug\Computer World.exe.manifest
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\bin\Debug\Computer World.application
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.exe.manifest
+C:\Users\Thakur\documents\visual studio 2010\Projects\Computer World\Computer World\obj\x86\Debug\Computer World.application
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer World.exe
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer World.pdb
+D:\vs project\Computer World\Computer World\bin\Debug\Computer World.exe.manifest
+D:\vs project\Computer World\Computer World\bin\Debug\Computer World.application
+D:\vs project\Computer World\Computer World\bin\Debug\Computer World.exe
+D:\vs project\Computer World\Computer World\bin\Debug\Computer World.pdb
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form1.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form2.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form3.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form4.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form5.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form6.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form7.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Form8.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer_World.Properties.Resources.resources
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer World.exe.manifest
+D:\vs project\Computer World\Computer World\obj\x86\Debug\Computer World.application
+D:\vs project\Computer World\Computer World\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vs project\Computer World\Computer World\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vs project\Computer World\Computer World\obj\x86\Debug\GenerateResource.write.1.tlog
